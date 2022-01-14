@@ -2,15 +2,15 @@ package edu.kis.vh.nursery.factory;
 
 import edu.kis.vh.nursery.defaultCountingOutRhymer;
 
-public interface RhymersFactory {
+public interface Rhymersfactory {
 
-    public defaultCountingOutRhymer getStandardRhymer();
+    public defaultCountingOutRhymer GetStandardRhymer();
 
-    public defaultCountingOutRhymer getFalseRhymer();
+    public defaultCountingOutRhymer GetFalseRhymer();
 
-    public defaultCountingOutRhymer getFifoRhymer();
+    public defaultCountingOutRhymer GetFIFORhymer();
 
-    public defaultCountingOutRhymer getHanoiRhymer();
+    public defaultCountingOutRhymer GetHanoiRhymer();
 
 }
 // alt + strzałki w Intellij to skrót klawiszowy to poruszania się pomiędzy otwartymi plikami
