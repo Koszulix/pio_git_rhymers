@@ -4,13 +4,13 @@ import edu.kis.vh.nursery.defaultCountingOutRhymer;
 
 public interface RhymersFactory {
 
-    public defaultCountingOutRhymer GetStandardRhymer();
+    public defaultCountingOutRhymer getStandardRhymer();
 
-    public defaultCountingOutRhymer GetFalseRhymer();
+    public defaultCountingOutRhymer getFalseRhymer();
 
-    public defaultCountingOutRhymer GetFIFORhymer();
+    public defaultCountingOutRhymer getFifoRhymer();
 
-    public defaultCountingOutRhymer GetHanoiRhymer();
+    public defaultCountingOutRhymer getHanoiRhymer();
 
 }
 // alt + strzałki w Intellij to skrót klawiszowy to poruszania się pomiędzy otwartymi plikami
