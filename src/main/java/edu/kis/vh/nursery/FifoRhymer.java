@@ -23,3 +23,4 @@ public class FIFORhymer extends defaultCountingOutRhymer {
         return temp;
     }
 }
+//Setters that are not needed just didn't create.

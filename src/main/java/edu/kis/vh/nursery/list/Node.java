@@ -30,3 +30,4 @@ public class Node {
         this.next = next;
     }
 }
+//Setters that are not needed just didn't create.
